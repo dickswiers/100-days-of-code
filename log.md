@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 0: 2020-10-03
+##### (delete me or comment me out)
+
+**Today's Progress**: Deceided to start with "100 days of code". 
+
+**Thoughts:** When do i start. What goals do i set.
+
+
+_____________________________________________________________________
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
