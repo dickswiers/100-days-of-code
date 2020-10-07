@@ -1,11 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: 2020-10-03
+### Day 1: 2020-10-07
 ##### (delete me or comment me out)
 
-**Today's Progress**: Deceided to start with "100 days of code". 
+**Today's Progress**: Definitely more than an hour of Python studied at sololearn.com. Exceptions & Files completed with Module 4 Quiz. 
 
-**Thoughts:** When do i start. What goals do i set.
+**Thoughts:** The penny is starting to drop a little. And then suddenly it doesn't. 
+
+**Link to SoloLearn profile:** https://www.sololearn.com/Profile/16194556/Python
 
 
 _____________________________________________________________________
