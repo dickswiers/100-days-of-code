@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: 2020-10-07
-##### (delete me or comment me out)
 
 **Today's Progress**: Definitely more than an hour of Python studied at sololearn.com. Exceptions & Files completed with Module 4 Quiz. 
 
