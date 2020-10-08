@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 2: 2020-10-08
+
+**Today's Progress**: Wireless USB adapter installed for pentesting. Thought I had to download driver manually, but fortunately it was plug and play. 
+First steps for Responsive Web Design Projects - Build a Technical Documentation Page on freeCodeCamp.org.
+
+**Thoughts:** Good to switch from Python to webdesign for now. 
+
+**Link to freeCodeCamp profile:** https://www.freecodecamp.org/dickswiers
+
+_
+
 ### Day 1: 2020-10-07
 
 **Today's Progress**: Definitely more than an hour of Python studied at sololearn.com. Exceptions & Files completed with Module 4 Quiz. 
@@ -8,8 +19,8 @@
 
 **Link to SoloLearn profile:** https://www.sololearn.com/Profile/16194556/Python
 
+_
 
-_____________________________________________________________________
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
