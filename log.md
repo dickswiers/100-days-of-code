@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 3: 2020-10-09
+
+**Today's Progress**: None. Been busy all day installing a fresh Linux Ubuntu and Kali dual boot. 
+
+**Thoughts:** Bollocks.
+
 ### Day 2: 2020-10-08
 
 **Today's Progress**: Wireless USB adapter installed for pentesting. Thought I had to download driver manually, but fortunately it was plug and play. 
