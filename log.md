@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: 2020-10-10
+
+**Today's Progress**: Just did my first pull request at Github. 
+
+**Thoughts:** Hope i did well.
+
+**Link to Github profile:** https://github.com/dickswiers
+
 ### Day 3: 2020-10-09
 
 **Today's Progress**: None. Been busy all day installing a fresh Linux Ubuntu and Kali dual boot. 
